@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 # Login credentials
-ACCOUNT = 423342311
+ACCOUNT = 423******
 PASSWORD = "*******"
 SERVER = "Exn*******"
 
